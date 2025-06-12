@@ -180,11 +180,11 @@ export class ProfileService {
     },
 
   ]
-  about2 = `Software Engineer with 1+ years of experience. .
+  about2 = `Software Engineer with 2+ years of experience. .
   Worked with Software Development Life Cycle(SDLC) and  agile methodologies. .
   Have good understanding of identifying and resolving issues.`
 
-  about = "Lover of innovation and everything related to generate new knowledge.Face problems with a smile and solve them as soon as possible. Very calculated about the time I spend and work I do."
+  about = "Lover of innovation and everything related to generate new knowledge. Face problems with a smile and solve them as soon as possible. Very calculated about the time I spend and work I do."
   resumeurl = "https://docs.google.com/document/d/1WODFuhIzQw2AXPsjt6f3rs-EDWhdhT8s89fOTrGRh70/edit?usp=sharing"
 
   skillsData: any = [
@@ -258,10 +258,9 @@ Completed my Secondary school with 84%.`
     {
       id: 3,
       company: 'JRC Software Pvt Ltd.  ',
-      location: 'Colombo, Sri Lanka',
       timeline: 'June 2024 to Present',
       role: 'Associate Software Engineer',
-      work: `Technologies : Angular , DotNet .
+      work: `Technologies : Angular , DotNet, Xano .
 
       Project 1 : Worked on a real-time chatbot for request maintenance of property for tenants. Integrated with Xano(no-code backend).
 
@@ -271,7 +270,6 @@ Completed my Secondary school with 84%.`
     {
       id: 1,
       company: 'MG Consultants Pvt Ltd.',
-      location: 'Nawala, Sri Lanka',
       timeline: 'June 2023 - Jan 2024',
       role: 'Intern - Software Developer',
       work: `Technologies : Angular , SpringBoot, MongoDB, Google Appscript .
