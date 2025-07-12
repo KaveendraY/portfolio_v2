@@ -4,13 +4,12 @@ import { IntroComponent } from './intro/intro.component';
 import { AboutComponent } from './about/about.component';
 import { ExperienceComponent } from './experience/experience.component';
 import { ProjectsComponent } from './projects/projects.component';
-import { ExtraCurricularComponent } from './articles/extra-curricular.component';
-
+import { FooterComponent } from './footer/footer.component';
 
 @Component({
   selector: 'app-profile',
   standalone:true,
-  imports: [ProfileComponent, HeaderComponent, IntroComponent, AboutComponent, ExperienceComponent, ProjectsComponent, ExtraCurricularComponent],
+  imports: [ProfileComponent, HeaderComponent, IntroComponent, AboutComponent, ExperienceComponent, ProjectsComponent, FooterComponent],
   templateUrl: './profile.component.html',
   styleUrls: ['./profile.component.css']
 })
